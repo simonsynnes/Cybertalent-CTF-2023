@@ -147,6 +147,8 @@ Analyzed the pcap file and eventually got another flag.
 
 ---
 
+# 2.0.4_manipulaite_2
+
 After checking one of the other new tickets I found an AI chat bot that was responding to comments.
 
 After persuading the bot to give us a flag in clear text, it was the answer to **2.0.4_manipulaite_2**.
