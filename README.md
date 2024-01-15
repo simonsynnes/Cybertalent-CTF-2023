@@ -33,7 +33,7 @@ The CTF consists of the following tasks:
 
 This write up covers parts of the Initial access and some of the tasks of the different departments.
 
-The context of the initial access can be found here: TODO
+The context of the initial access can be found [here](https://github.com/simonsynnes/Cybertalent-CTF-2023/blob/main/INTREP.txt)
 
 # 2.0_1_manipulaite_1
 
