@@ -130,7 +130,7 @@ Added **&admin=1** to the request, which gave us admin access and a new flag.
 
 ---
 
-**2.0.5_pcap**
+# 2.0.5_pcap
 
 We now gained access to more tickets.
 
@@ -153,7 +153,7 @@ After persuading the bot to give us a flag in clear text, it was the answer to *
 
 ---
 
-**2.0.6_dep-gw**
+# 2.0.6_dep-gw
 
 After gaining the flag from **2.0.4_manipulaite_2,** we could now create the ****id_ed25519**** private key needed to connect through ssh to get the flag for this task.
 
@@ -172,9 +172,9 @@ The next flag was found through this connection.
 
 I had now unlocked all of the  different departments.
 
-I started off with the Department of Security.
+I started off with the **Department of Security**.
 
-**Department of Security**
+# 2.5.1_passftp
 
 ```jsx
 # passFTP
@@ -207,7 +207,10 @@ Analyzed this with GDB (Gnu Project Debugger) to find out how the program works 
 
 ---
 
-# 
+Headed over to the **Department of Development and Test**.
+We were directed to a website where the tasks consists of creating a type of assembly code to do certain stuff.
+
+# 2.1.1_hello
 
 Write a program that prints out "MOV to the cloud!", without
 the quotation marks. The line must end with a newline
