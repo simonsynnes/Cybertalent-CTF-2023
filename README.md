@@ -5,29 +5,16 @@ Etteretningstjenesten 2023 CTF (https://ctf.cybertalent.no/)
 
 The CTF consists of the following tasks:
 
-1. Grunnleggende / Basics
-- 1.1_scoreboard
-- 1.2_setuid
-- 1.3_injection
-- 1.4_overflow
-- 1.5_nettverk
-- 1.6_reversing
-- 1.7_path_traversal
-- 1.8_path_traversal_bonus
-
-2. Initiell aksess / Initial access
-- 2.0.1_manipulaite_1
-- 2.0.2_anvilticket_1
-- 2.0.3_anvilticket_2
-- 2.0.4_manipulaite_2
-- 2.0.5_pcap
-- 2.0.6_dep-gw
-
-- 2.1. Department of Development and Test
-- 2.2. Department of Cryptography
-- 2.3. Department of Research
-- 2.4. Department of Intelligence
-- 2.5. Department of Security
+| 1. Grunnleggende / Basics | 2. Initiell aksess / Initial access | Departments |
+| ------------ | -----------    |-------------- |
+| 1.1_scoreboard   | 2.0.1_manipulaite_1     | 2.1. Department of Development and Test   |
+| 1.2_setuid    | 2.0.2_anvilticket_1     |  2.2. Department of Cryptography     |
+| 1.3_injection | 2.0.3_anvilticket_2 | 2.3. Department of Research |
+| 1.4_overflow | 2.0.4_manipulaite_2 | 2.4. Department of Intelligence |
+| 1.5_nettverk | 2.0.5_pcap | 2.5. Department of Security |
+| 1.6_reversing | 2.0.6_dep-gw | |
+| 1.7_path_traversal | | |
+| 1.8_path_traversal_bonus | | |
 
 ---
 
